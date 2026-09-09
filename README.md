@@ -56,7 +56,7 @@ diabetes_app/
 ## Running Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/diabetes-risk-predictor.git
+git clone https://github.com/Adeyiwolasuccess/diabetes-risk-predictor.git
 cd diabetes-risk-predictor
 pip install -r requirements.txt
 streamlit run app.py
